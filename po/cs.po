@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-29 19:37+0200\n"
+"POT-Creation-Date: 2024-07-24 20:57+0200\n"
 "PO-Revision-Date: 2024-04-29 19:38+0200\n"
 "Last-Translator: Christian Lauinger <christian@lauinger-clan.de>\n"
 "Language-Team: \n"
@@ -19,121 +19,121 @@ msgstr ""
 
 #: HeadsetControl@lauinger-clan.de/extension.js:64
 #: HeadsetControl@lauinger-clan.de/extension.js:70
-#: HeadsetControl@lauinger-clan.de/extension.js:104
-#: HeadsetControl@lauinger-clan.de/extension.js:112
-#: HeadsetControl@lauinger-clan.de/extension.js:215
+#: HeadsetControl@lauinger-clan.de/extension.js:132
+#: HeadsetControl@lauinger-clan.de/extension.js:140
+#: HeadsetControl@lauinger-clan.de/extension.js:243
 #: HeadsetControl@lauinger-clan.de/prefs.js:92
 msgid "HeadsetControl"
 msgstr "HeadsetControl"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:75
-#: HeadsetControl@lauinger-clan.de/extension.js:76
+#: HeadsetControl@lauinger-clan.de/extension.js:103
+#: HeadsetControl@lauinger-clan.de/extension.js:104
 #: HeadsetControl@lauinger-clan.de/prefs.js:101
 msgid "Command:"
 msgstr "Příkaz:"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:122
-#: HeadsetControl@lauinger-clan.de/extension.js:491
-#: HeadsetControl@lauinger-clan.de/extension.js:549
-msgid "Charge"
-msgstr "Nabíjení"
+#: HeadsetControl@lauinger-clan.de/extension.js:150
+#: HeadsetControl@lauinger-clan.de/extension.js:520
+#: HeadsetControl@lauinger-clan.de/extension.js:577
+msgid "Level"
+msgstr ""
 
-#: HeadsetControl@lauinger-clan.de/extension.js:126
-#: HeadsetControl@lauinger-clan.de/extension.js:495
-#: HeadsetControl@lauinger-clan.de/extension.js:563
+#: HeadsetControl@lauinger-clan.de/extension.js:154
+#: HeadsetControl@lauinger-clan.de/extension.js:523
+#: HeadsetControl@lauinger-clan.de/extension.js:591
 #: HeadsetControl@lauinger-clan.de/prefs.js:175
 msgid "Chat-Mix"
 msgstr "Chat-Mix"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:131
+#: HeadsetControl@lauinger-clan.de/extension.js:159
 #: HeadsetControl@lauinger-clan.de/prefs.js:186
 msgid "Sidetone"
 msgstr "Sidetone"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:135
+#: HeadsetControl@lauinger-clan.de/extension.js:163
 #: HeadsetControl@lauinger-clan.de/prefs.js:192
 msgid "LED"
 msgstr "LED"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:140
+#: HeadsetControl@lauinger-clan.de/extension.js:168
 #: HeadsetControl@lauinger-clan.de/prefs.js:198
 msgid "Inactive time"
 msgstr "Doba nečinnosti"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:147
+#: HeadsetControl@lauinger-clan.de/extension.js:175
 #: HeadsetControl@lauinger-clan.de/prefs.js:204
 msgid "Voice Prompts"
 msgstr "Hlasové pokyny"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:153
+#: HeadsetControl@lauinger-clan.de/extension.js:181
 #: HeadsetControl@lauinger-clan.de/prefs.js:210
 msgid "Rotate to Mute"
 msgstr "Otočením ztlumit"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:159
+#: HeadsetControl@lauinger-clan.de/extension.js:187
 msgid "Settings"
 msgstr "Nastavení"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:233
-#: HeadsetControl@lauinger-clan.de/extension.js:252
-#: HeadsetControl@lauinger-clan.de/extension.js:268
-#: HeadsetControl@lauinger-clan.de/extension.js:284
-#: HeadsetControl@lauinger-clan.de/extension.js:300
+#: HeadsetControl@lauinger-clan.de/extension.js:261
+#: HeadsetControl@lauinger-clan.de/extension.js:280
+#: HeadsetControl@lauinger-clan.de/extension.js:296
+#: HeadsetControl@lauinger-clan.de/extension.js:312
+#: HeadsetControl@lauinger-clan.de/extension.js:328
 msgid "Off"
 msgstr "Vypnuto"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:234
+#: HeadsetControl@lauinger-clan.de/extension.js:262
 msgid "low"
 msgstr "nízká"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:235
+#: HeadsetControl@lauinger-clan.de/extension.js:263
 msgid "medium"
 msgstr "střední"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:236
+#: HeadsetControl@lauinger-clan.de/extension.js:264
 msgid "high"
 msgstr "vysoká"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:237
+#: HeadsetControl@lauinger-clan.de/extension.js:265
 msgid "max"
 msgstr "maximální"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:253
-#: HeadsetControl@lauinger-clan.de/extension.js:269
-#: HeadsetControl@lauinger-clan.de/extension.js:285
+#: HeadsetControl@lauinger-clan.de/extension.js:281
+#: HeadsetControl@lauinger-clan.de/extension.js:297
+#: HeadsetControl@lauinger-clan.de/extension.js:313
 msgid "On"
 msgstr "Zapnuto"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:301
+#: HeadsetControl@lauinger-clan.de/extension.js:329
 msgid "05 min"
 msgstr "05 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:302
+#: HeadsetControl@lauinger-clan.de/extension.js:330
 msgid "15 min"
 msgstr "15 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:303
+#: HeadsetControl@lauinger-clan.de/extension.js:331
 msgid "30 min"
 msgstr "30 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:304
+#: HeadsetControl@lauinger-clan.de/extension.js:332
 msgid "45 min"
 msgstr "45 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:305
+#: HeadsetControl@lauinger-clan.de/extension.js:333
 msgid "60 min"
 msgstr "60 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:306
+#: HeadsetControl@lauinger-clan.de/extension.js:334
 msgid "75 min"
 msgstr "75 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:307
+#: HeadsetControl@lauinger-clan.de/extension.js:335
 msgid "90 min"
 msgstr "90 min"
 
-#: HeadsetControl@lauinger-clan.de/extension.js:569
-#: HeadsetControl@lauinger-clan.de/extension.js:570
+#: HeadsetControl@lauinger-clan.de/extension.js:597
+#: HeadsetControl@lauinger-clan.de/extension.js:598
 msgid "Refreshing..."
 msgstr "Obnovování..."
 
@@ -398,6 +398,9 @@ msgstr "parametr pro povolení barvy textu baterie v procentech"
 #: HeadsetControl@lauinger-clan.de/schemas/org.gnome.shell.extensions.HeadsetControl.gschema.xml:71
 msgid "Makes battery percentage text colored/non-colored"
 msgstr "Barevný/černobílý text"
+
+#~ msgid "Charge"
+#~ msgstr "Nabíjení"
 
 #, fuzzy
 #~ msgid "device(0).capabilities:"
